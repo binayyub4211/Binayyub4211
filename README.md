@@ -31,6 +31,11 @@
 - Twitter: @ayuba23821  
 - Email: mmuktar1142@gmail.com
 
+- ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
+
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binayyub4211&show_icons=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=binayyub4211)
