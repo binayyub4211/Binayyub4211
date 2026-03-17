@@ -32,3 +32,5 @@
 - Email: mmuktar1142@gmail.com
 
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binayyub4211&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=binayyub4211)
