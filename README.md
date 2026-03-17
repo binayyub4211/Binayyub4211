@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm kalifa-dev
 
-<!--
-**binayyub4211/Binayyub4211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer  
+🌱 Currently learning Web3 & Solidity  
+🚀 Building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🎓 Computer Science Student  
+- 💡 Interested in Cybersecurity & Web3  
+- 🔭 Currently working on digital platforms  
+
+---
+
+## 🛠️ Tech Stack
+- HTML, CSS, JavaScript, node.js  
+- PHP & MySQL  
+- Bootstrap  
+
+---
+
+## 📌 Current Goals
+- Learn Solidity & Smart Contracts  
+- Contribute to Open Source  
+- Earn from Web3 (Drips, Gitcoin and more)  
+
+---
+
+## 📫 Contact Me
+- Twitter: @ayuba23821  
+- Email: mmuktar1142@gmail.com
